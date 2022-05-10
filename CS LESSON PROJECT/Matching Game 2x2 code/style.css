@@ -1,0 +1,25 @@
+.row {
+    text-align: center; 
+}
+.card { /*creating card as a square 125 by 125 pixels*/
+    width: 125px; 
+    height: 125px; 
+    background-color: gray; /*background for a back side of each card*/
+    display: inline-block; /*display an element as an inline-level block container - on the same line as adjacent content*/
+}
+body {
+    background-color: whitesmoke;
+}
+.card:hover {
+    box-shadow: inset 0px 0px 0px 3px blue; /*when the mouse hover the card the card appears in the frame, inset option is not to change the size of the card*/
+}
+.orange { 
+    background-color: orange; 
+}
+.yellow { 
+    background-color: yellow; 
+}
+
+.color-hidden {
+    background-color: gray;
+}
