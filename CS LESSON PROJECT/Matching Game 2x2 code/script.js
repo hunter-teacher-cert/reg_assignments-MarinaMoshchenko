@@ -42,11 +42,12 @@ function onCardClicked(input) {
 }
 
 
-/* INSTRUCTIONS:
-FINISH THE CODE THAT:
-1. The game will have the board of your selected dimensions (4x4, 5x5, 3x4). Make sure you use even Number
-2. The game will have title and user friendly instructions
-3. The counter of steps will be added and displayed at the end of the game. Example "You win the game with 14 clicks"
-CHALLENGE 1. Cards with emojis 
-CHALLENGE 2. Cards with images*/
+/* INSTRUCTIONS. FINISH THE CODE THAT:
+1. The game will have the board of your selected dimensions (4x4, 5x5, 3x4). Make sure you use even number of cards.
+2. The game will have title and user-friendly instructions.
+3. The counter of step is being added and display at the end of the game. Example "You win the game with 14 moves"
+
+CHALLENGE 1. Modify the code so that the cards would display emojis as literal when flipped (You may use https://emojipedia.org/)
+CHALLENGE 2. Modify the code so that the cards would display images when flipped
+*/
 
